@@ -1,0 +1,18 @@
+header {
+  text-align: center;
+}
+@media screen and (max-width: 327px) {
+  .budget-button {
+    margin-top: 10px;
+  }
+}
+.dribbble-icon:hover {
+  color: #ea4c89;
+}
+.twitter-icon:hover {
+  color: #1da1f2;
+}
+.github-icon:hover {
+  color: #171515;
+}
+/*# sourceMappingURL=main.514212aa.css.map*/
